@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `epredictz`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.epredictz.com`
   },
   plugins: [{
     resolve: 'gatsby-plugin-google-analytics',
